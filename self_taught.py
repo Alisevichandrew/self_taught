@@ -46,3 +46,4 @@ del my_dict[key_3]
 del my_dict['key_4']
 
 print(my_dict)
+# ----------------
